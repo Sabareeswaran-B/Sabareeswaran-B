@@ -5,7 +5,7 @@
 - 📫 How to reach me sabareeswara2510@gmail.com
 
   Hi! I am Sabareeswaran Balasubramaniam, a Fulstack Developer currently pursuing my masters degree (MCA),
-  also I am working as an part-time developer mostly working with flutter and React at SmartChainers pvt ltd, Chennai.
+  also I am working as a Software Engineer Intern @ Kovai.co.
 
 <!---
 Sabareeswaran-B/Sabareeswaran-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
