@@ -2,7 +2,7 @@
 - 👀 I’m a developer
 - 📫 How to reach me sabareeswara2510@gmail.com
 
-  Hi! I am Sabareeswaran Balasubramaniam, a Software Engineer/Fulstack Developer, Currently working [Kovai.co](https://Kovai.co "" target="_blank")
+  Hi! I am Sabareeswaran Balasubramaniam, a Software Engineer/Fulstack Developer, Currently working [Kovai.co](https://Kovai.co)
 <!---
 Sabareeswaran-B/Sabareeswaran-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
