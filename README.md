@@ -257,9 +257,7 @@ A collection of practical examples demonstrating:
 
 📧 Email: **[sabareeswara2510@gmail.com](mailto:sabareeswara2510@gmail.com)**
 
-💼 LinkedIn: **Add your LinkedIn profile URL**
-
-🌐 Portfolio: **Add your portfolio URL**
+💼 LinkedIn: **www.linkedin.com/in/sabarees-cbe**
 
 ---
 
